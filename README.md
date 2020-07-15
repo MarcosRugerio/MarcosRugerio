@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Marcos Rugerio** from **México** (MX)
+My name is **Marcos Rugerio** from **México** :mexico:
 
 Here are some ideas to get you started:
 
