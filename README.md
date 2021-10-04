@@ -3,8 +3,8 @@
 
 My name is **Marcos Rugerio** from **México** :mexico:
 
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning Cisco CCNA.
+- 🔭 I’m currently .....
+- 🌱 I’m currently learning ...
 
 ![GitHub followers](https://img.shields.io/github/followers/marcosrugerio?style=social)
 
